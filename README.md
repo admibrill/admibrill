@@ -1,4 +1,4 @@
-#  👋 Hi, I’m @caobi114514
+#  👋 Hi, I’m @admibrill
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Python,C++,Lua,Batch,HTML/CSS/JS..
 - 💞️ I’m looking to collaborate on with everyone.
