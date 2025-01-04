@@ -7,8 +7,5 @@
 - ⚡ Fun fact: caobi
 - 🔤 Gender:male
  
-
-<!---
-caobi114514/caobi114514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![WakaTime](https://wakatime.com/badge/user/f68d12aa-ef91-420a-9836-8e138bc58c51.svg?style=for-the-badge)](https://wakatime.com/@admibrill)
+![Profile Views](https://komarev.com/ghpvc/?username=admibrill&style=for-the-badge)
