@@ -42,4 +42,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.svg)
